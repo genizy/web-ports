@@ -41,6 +41,7 @@ will not count mods of games that were ported to web unless they are really popu
 - [quake 3](https://github.com/lrusso/Quake3) - Ported by [lrusso](https://github.com/lrusso/Quake3)
 - [r.e.p.o.](https://github.com/genizy/web-port/tree/main/repo) - Ported by [98corbins](https://98cornbin.netlify.app/)
 - [raft](https://github.com/genizy/web-port/tree/main/raft) - Ported by [Ashen Arrow](https://npa.lol)
+- [slime ranchers](https://dev.snubby.top/) - Ported by [snubby](https://snubby.top/)
 - [sonic cd](https://github.com/TWS2401/Sonic-CD-WASM) - Ported by [TWS2401](https://github.com/TWS2401)
 - [sonic mania](https://github.com/burnedpopcorn/SonicManiaPlusWebPort) - Ported by [burnedpopcorn](https://discord.gg/jNNSnwy6QV)
 - [sonic the hedgehog 1](https://github.com/VinMannie/Sonic-1-WASM) - Ported by [VinMannie](https://github.com/VinMannie)
